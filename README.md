@@ -27,7 +27,7 @@ Edit `FPSUnlock.ini` untuk menyesuaikan pengaturan:
 [Settings]
 UnlockFPS = true       ; Set false untuk menonaktifkan
 CustomFPS = 0          ; 0 untuk tidak terbatas, atau atur FPS yang diinginkan (contoh: 60, 144)
-PhysicsScale = 1.0     ; Sesuaikan timing fisika (disarankan 0.5-2.0)
+PhysicsScale = 1.0     ; jangan dirubah
 ```
 
 ## Pengaturan yang Disarankan
