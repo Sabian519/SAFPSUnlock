@@ -15,7 +15,6 @@ Plugin ASI ini menghilangkan batasan 30 FPS di Grand Theft Auto: San Andreas (ve
 1. Salin file berikut ke folder utama GTA SA (tempat gta_sa.exe berada):
    - `FPSUnlock.asi`
    - `FPSUnlock.ini`
-   - (Opsional) `MinHook.x64.dll` jika tidak terlink secara statis
 
 2. Pastikan Anda memiliki:
    - ASI Loader (disarankan [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader))
